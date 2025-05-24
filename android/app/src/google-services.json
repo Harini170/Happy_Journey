@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "846995018856",
+    "project_id": "happyjourney-4644d",
+    "storage_bucket": "happyjourney-4644d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846995018856:android:1a482f82fff7fe5c2e17dd",
+        "android_client_info": {
+          "package_name": "com.example.happyjourney"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKsi_mkQ147nVBryvL5BhQf10fnkTKx6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
